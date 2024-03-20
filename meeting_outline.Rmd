@@ -1,0 +1,58 @@
+---
+title: "Meeting Outline"
+date: "26th - 28th of March 2024"
+output:
+  html_document:
+    toc: false
+    number_sections: false
+    theme: cosmo
+fontsize: 14pt
+---
+
+**Location: Macquarie University, Wallumattagal Campus, Michael Kirby Law Building. 17 Wallys Walk room 330-331.**
+
+| Date           |   Time | Event                                                                                                                                               | Comments                                       |
+| :------------- | :----- | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------                          |
+| **26th March** |  13:00 | Program begins                                                                                                                                      |                                                |
+|                |  13:00 | Acknowledgment of Country                                                                                                                           |                                                |
+|                |  13:05 | Andrew Barron: What is ARCANI?                                                                                                                      |                                                |
+|                |  13:30 | James Marshall: Building a mind                                                                                                                     | <a href="" target="_blank">Leave a comment</a> |
+|                |  14:50 | Coffee break                                                                                                                                        |                                                |
+|                |        | Chair: Alex Duvval                                                                                                                                  |                                                |
+|                |  15:20 | Cody Freas, Ken Cheng, Iman Shames: Oscillators, oscillations, and the management of uncertainty                                                    |                                                |
+|                |  15:35 | Somayeh Hussaini: Bio-inspired efficiency: enhancing robot navigation through energy-efficient spiking neural Networks for visual place recognition |                                                |
+|                |  15:50 | Karin Nordstrom: Motion vision in a small brain                                                                                                     |                                                |
+|                |  16:05 | Gaurav Patil: Learning to coordinate with humans from models of human perceptual-motor behaviour                                                    |                                                |
+|                |  16:20 | Marie-Genevieve Guiraud: TBA                                                                                                                        |                                                |
+|                |  16:35 | Samantha Curtis: RT Distribution Analysis of the Distractor-Primed Stroop Task                                                                      |                                                |
+|                |  17:00 | Dinner on campus <br> Drinks U-bar                                                                                                                  |                                                |
+| **27th March** |  09:00 | Program begins                                                                                                                                      |                                                |
+|                |  09:00 | Opening remarks                                                                                                                                     |                                                |
+|                |        | Chair: Marie Guiraud                                                                                                                                |                                                |
+|                |  09:05 | Ines Hipolito and Richard Menary: Enculturation and AI                                                                                              |                                                |
+|                |  09:30 | Bruno van Swinderen: A predictive code in the fly brain                                                                                             |                                                |
+|                |  09:55 | Olaf Witkowski: Hybrid Minds Meaning Across Substrates                                                                                              |                                                |
+|                |  10:20 | Marta Halina: Underdetermination in comparative cognition research                                                                                  |                                                |
+|                |  10:45 | Morning coffee                                                                                                                                      |                                                |
+|                |  11:10 | **WHAT discussion: What are the knowledge gaps**                                                                                                    |                                                |
+|                |  12:30 | Lunch <br> Brown bag Lunch <br> Pranab Das: interdisciplinary collaborations at scale.                                                              |                                                |
+|                |        | Chair: Matthew Crossley                                                                                                                             |                                                |
+|                |  13:30 | Greg Ashby: Action selection for automatic behaviors                                                                                                |                                                |
+|                |  13:55 | Bernard Balleine: Cognitive control: How predictive learning influences choice                                                                      |                                                |
+|                |  14:20 | Rachael Stentiford: Using robots to explore insect visual navigation                                                                                |                                                |
+|                |  14:35 | Amany Ann: Insect-inspired robotic navigation                                                                                                       |                                                |
+|                |  14:50 | Coffee break                                                                                                                                        |                                                |
+|                |  14:50 | **WHO discussion: Who can help us close the knowledge gaps?**                                                                                       |                                                |
+|                |        | Chair: Pranab Das                                                                                                                                   |                                                |
+|                |  15:40 | Michael Milford: Introspection in AI                                                                                                                |                                                |
+|                |  17:10 | Dinner on campus <br> Drinks U-bar                                                                                                                  |                                                |
+| **28th March** |  09:00 | Program begins                                                                                                                                      |                                                |
+|                |  09:00 | Opening remarks                                                                                                                                     |                                                |
+|                |  09:05 | Michael Richardson Harnessing AI: the future of efficient and effective defence training                                                            |                                                |
+|                |  09:30 | Chris Reid: Collective intelligence                                                                                                                 |                                                |
+|                |  09:55 | Kostantinos Voudouris: Studying artificial and natural Intelligence with the Animal-AI environment                                                  |                                                |
+|                |  10:20 | Matthew Fricke: Swarm foraging; from pogonomyrmex to robots                                                                                         |                                                |
+|                |  10:45 | Morning Coffee                                                                                                                                      |                                                |
+|                |  11:15 | **HOW discussion: How can ACCELNET support collaboration to close knowledge gaps?**                                                                 |                                                |
+|                |  12:30 | Brown bag Lunch Pranab Das interdisciplinary collaborations at scale.                                                                               |                                                |
+|                |  13:00 | MEETING CLOSE 2pm                                                                                                                                   |                                                |

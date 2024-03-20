@@ -1,0 +1,85 @@
+---
+title: "Meeting Information"
+date: "26th - 28th of March 2024"
+output:
+  html_document:
+    toc: false
+    number_sections: false
+    theme: cosmo
+fontsize: 14pt
+---
+
+## What is ARCANI
+
+The ARCANI -- Accelerating Research Collaboration between
+Artificial and Natural Intelligences -- project is led by
+Erica Cartmill, Jacob Foster and Pranab Das.  It is funded
+by the NSF to connect existing networks studying
+intelligence in different forms to examine what the next
+frontiers of research might be. Details on the project can
+be found here: 
+
+<a href="https://www.arcanigroup.org/" target="_blank">ARCANI GROUP</a>
+
+At this meeting we have work to do, and an exciting
+opportunity.  In 2025 we will be able to apply to the NSF to
+continue ARCANI as a network of networks for a further two
+years if there is benefit and need. We need to leave this
+meeting with materials for a white paper discussing WHAT are
+the gaps in knowledge, WHO can help us close those gaps, HOW
+can sustainable collaboration in the ARCANI network close
+those gaps.  Hence the structured discussions in our
+workshop.
+
+## Venue and campus map
+
+Our meeting will be held in rooms 330-331 of 17 Wallys Walk
+in the Michael Kirby Law building.  Maps for Macquarie
+University can be found here:
+  
+<a href="https://www.mq.edu.au/__data/assets/pdf_file/0005/1236317/MQ-Campus_map_2022-10.pdf" target="_blank">Campus Map</a>
+
+The Michael Kirby Building is labelled and is in the exact
+centre of campus.  Cafes and restaurants can be found
+around the Central Courtyard immediately to the north of
+the Michael Kirby Building.
+
+## Getting to Macquarie
+
+Macquarie University is located on Sydney’s north shore
+about 17km north of the city centre and 27kn north of the
+airport. Macquarie University has a dedicated metro station
+(marked on the south east of the map).  This is the easiest
+way to get to campus.  Train schedules and routes can be
+found at the Transport NSW website.
+
+<a href="https://transportnsw.info/" target="_blank">NSW Transport</a>
+
+On trains and buses in Sydney fares are paid by either opal
+card or a credit card (see details on the transportnsw
+website. For international visitors Uber operates in Sydney,
+but be aware an Uber from the airport will cost about
+AU$100.
+
+## Hotel details
+
+For those I have reserved hotel rooms for, our hotel booking
+is with the Mercure Macquarie Park at 81 Talavera Road North
+Ryde NSW 2113. It’s marked on the campus map (north east)
+and an easy walk to our venue.
+
+## Presenter information
+
+The room is equipped with a digital projector connected to a
+PC and with an  HDMI connector to plug  in a laptop.
+Presenters can either upload a presentation to the resident
+PC (please bring your presentation on your own USB) or
+connect a laptop directly.  Please bring whatever dongle you
+will need to connect to HDMI.
+
+The intent of all talks is to give us plenty of time for
+discussion.  For the long talks (James and Michael) I have
+in mind 30 mins of discussion. For the 25 minute talks can
+speakers please leave five mins for discussion and aim to
+talk for 20 mins. For the 15 min talks - please leave five
+mins for discussion and aim to speak for 10. 

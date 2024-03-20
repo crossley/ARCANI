@@ -1,0 +1,7 @@
+title: "ARCANI"
+type: default
+left:
+  - text: "Meeting Outline"
+    href: meeting_outline.html
+  - text: "Meeting Information"
+    href: meeting_info.html
