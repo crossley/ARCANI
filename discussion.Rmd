@@ -8,9 +8,64 @@ output:
 fontsize: 14pt
 ---
 
+Please find below a link to a discussion board for each of
+our discussions. You will need to sign up to github (or log
+in if you already have an account) to comment.  You can sign
+up/log in through the website. Note you will only need the
+free version of github.  
+
+Please make notes as the discussion is going on. Capture all
+ideas, personal or group. These will go on to fuel the white
+paper we will be developing after the workshop. Feel free to
+comment on, add to, augment, and add reactions to other
+people’s posts. Think of this as a high-functional reddit
+environment. That means - play nice. 
+
+## WHAT are the gaps in knowledge? 
+
+- What is limiting progress in AI and robotics?  
+- What don’t we understand about animal intelligence? 
+- What would it mean to make AI more biomorphic or neuromorphic?  
+- What are the alternatives to backpropagation through time?  
+- What questions when answered would have the biggest impact?
+
+The outcome we need from this discussion is a list of well
+defined questions (with possible subquestions) that a
+network like ARCANI could progress over the next three
+years. The full ARCANI network is global and expansive
+covering computing, robotics, pure and applied mathematics,
+philosophy, psychology, comparative cognition and
+neuroscience. It’s a powerful team, so we need to think big
+and bold.
 
 * <a href="https://github.com/crossley/ARCANI/issues/2" target="_blank">WHAT discussion: What are the knowledge gaps</a>
 
+
+## WHO can help us close the knowledge gaps?
+
+This is a data collection exercise over an extended coffee
+break.  We need to know who could help us with the questions
+identified in the WHAT discussion. To recommend an
+individual please give us a Name, an Affiliation, an Email,
+a brief statement about what makes this person valuable and
+a brief statement about how well you know this person.
+Personal connections with the current team will make it
+easier to follow up. 
+
 * <a href="https://github.com/crossley/ARCANI/issues/3" target="_blank">WHO discussion: Who can help us close the knowledge gaps?</a>
+
+
+## HOW can sustainable collaboration in the ARCANI network close those gaps
+
+This is brainstorming HOW we should best use the resources
+of ARCANI (if granted) to realise the projects proposed in
+the what discussion.  
+
+- Do we need regular workshops? 
+- Do we need extended working parties? 
+- Do we need to fund exchanges between labs? 
+- Do we need bespoke digital resources? 
+- Often our biggest barrier to research is time? 
+- Can we use ARCANI to free time? 
 
 * <a href="https://github.com/crossley/ARCANI/issues/4" target="_black"> HOW discussion: How can ACCELNET support collaboration to close knowledge gaps?</a>

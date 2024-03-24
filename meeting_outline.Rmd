@@ -43,7 +43,7 @@ fontsize: 14pt
 |                   |     10:20 | Marta Halina: Underdetermination in comparative cognition research                                                                             |
 |                   |     10:45 | Morning coffee                                                                                                                                 |
 |                   |     11:10 | <a href="https://github.com/crossley/ARCANI/issues/1" target="_blank">WHAT discussion: What are the knowledge gaps</a>                         |
-|                   |     12:30 | Lunch <br> Brown bag Lunch                                                                                                                     |
+|                   |     12:30 | Lunch                                                                                                                                          |
 |                   |     13:25 | Introduction to talks: <br> Chair: Matthew Crossley                                                                                            |
 |                   |     13:30 | Greg Ashby: Action selection for automatic behaviors                                                                                           |
 |                   |     13:55 | Bernard Balleine: Cognitive control: How predictive learning influences choice                                                                 |
@@ -60,13 +60,13 @@ fontsize: 14pt
 | :---------------- | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------             |
 | **28th March**    |     09:00 | Program begins                                                                                                                                             |
 |                   |     09:00 | Opening remarks                                                                                                                                            |
-|                   |     09:00 | Introduction to talks: <br> Chair: TBD                                                                                                                     |
+|                   |     09:00 | Introduction to talks: <br> Chair: Marta Halina                                                                                                            |
 |                   |     09:05 | Michael Richardson Harnessing AI: the future of efficient and effective defence training                                                                   |
 |                   |     09:30 | Chris Reid: Collective intelligence                                                                                                                        |
 |                   |     09:55 | Kostantinos Voudouris: Studying artificial and natural Intelligence with the Animal-AI environment                                                         |
 |                   |     10:20 | Matthew Fricke: Swarm foraging; from pogonomyrmex to robots                                                                                                |
 |                   |     10:45 | Morning Coffee                                                                                                                                             |
 |                   |     11:15 | <a href="https://github.com/crossley/ARCANI/issues/1" target="_black"> HOW discussion: How can ACCELNET support collaboration to close knowledge gaps?</a> |
-|                   |     12:30 | Brown bag Lunch Pranab Das interdisciplinary collaborations at scale.                                                                                      |
-|                   |     13:00 | MEETING CLOSE 2pm                                                                                                                                          |
-
+|                   |     12:30 | David Kaplan: What drives model organism selection                                                                                                         |
+|                   |     12:50 | Brown bag Lunch <br> Pranab Das interdisciplinary collaborations at scale.                                                                                 |
+|                   |     14:00 | MEETING CLOSE 2pm                                                                                                                                          |
