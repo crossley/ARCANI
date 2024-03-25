@@ -23,11 +23,11 @@ fontsize: 14pt
 |                   |     13:30 | James Marshall: Building a mind                                                                                                                     |
 |                   |     14:50 | Coffee break                                                                                                                                        |
 |                   |     15:15 | Introduction to talks: <br> Chair: Alex Duvval                                                                                                      |
-|                   |     15:20 | Cody Freas, Ken Cheng, Iman Shames: Oscillators, oscillations, and the management of uncertainty                                                    |
-|                   |     15:35 | Somayeh Hussaini: Bio-inspired efficiency: enhancing robot navigation through energy-efficient spiking neural Networks for visual place recognition |
-|                   |     15:50 | Karin Nordstrom: Motion vision in a small brain                                                                                                     |
-|                   |     16:05 | Gaurav Patil: Learning to coordinate with humans from models of human perceptual-motor behaviour                                                    |
-|                   |     16:20 | Marie-Genevieve Guiraud: TBA                                                                                                                        |
+|                   |     15:20 | Jordan Wehrman: predictive error as model of perception under low dose ketamine                                                                     |
+|                   |     15:35 | Cody Freas, Ken Cheng, Iman Shames: Oscillators, oscillations, and the management of uncertainty                                                    |
+|                   |     15:50 | Somayeh Hussaini: Bio-inspired efficiency: enhancing robot navigation through energy-efficient spiking neural Networks for visual place recognition |
+|                   |     16:05 | Karin Nordstrom: Motion vision in a small brain                                                                                                     |
+|                   |     16:20 | Gaurav Patil: Learning to coordinate with humans from models of human perceptual-motor behaviour                                                    |
 |                   |     16:35 | Samantha Curtis: RT Distribution Analysis of the Distractor-Primed Stroop Task                                                                      |
 |                   |     16:50 | End of Day 1 talks                                                                                                                                  |
 |                   |     17:00 | Dinner on campus <br> Drinks U-bar                                                                                                                  |
