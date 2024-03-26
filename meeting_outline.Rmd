@@ -42,7 +42,7 @@ fontsize: 14pt
 |                   |     09:55 | Olaf Witkowski: Hybrid Minds Meaning Across Substrates                                                                                         |
 |                   |     10:20 | Marta Halina: Underdetermination in comparative cognition research                                                                             |
 |                   |     10:45 | Morning coffee                                                                                                                                 |
-|                   |     11:10 | <a href="https://github.com/crossley/ARCANI/issues/1" target="_blank">WHAT discussion: What are the knowledge gaps</a>                         |
+|                   |     11:10 | <a href="https://github.com/crossley/ARCANI/issues/2" target="_blank">WHAT discussion: What are the knowledge gaps</a>                         |
 |                   |     12:30 | Lunch                                                                                                                                          |
 |                   |     13:25 | Introduction to talks: <br> Chair: Matthew Crossley                                                                                            |
 |                   |     13:30 | Greg Ashby: Action selection for automatic behaviors                                                                                           |
@@ -50,7 +50,7 @@ fontsize: 14pt
 |                   |     14:20 | Rachael Stentiford: Using robots to explore insect visual navigation                                                                           |
 |                   |     14:35 | Amany Ann: Insect-inspired robotic navigation                                                                                                  |
 |                   |     14:50 | Coffee break                                                                                                                                   |
-|                   |     14:50 | <a href="https://github.com/crossley/ARCANI/issues/1" target="_blank">WHO discussion: Who can help us close the knowledge gaps?</a>            |
+|                   |     14:50 | <a href="https://github.com/crossley/ARCANI/issues/3" target="_blank">WHO discussion: Who can help us close the knowledge gaps?</a>            |
 |                   |     15:35 | Introduction to talk: <br> Chair: Pranab Das                                                                                                   |
 |                   |     15:40 | Michael Milford: Introspection in AI                                                                                                           |
 |                   |     17:10 | Dinner on campus <br> Drinks U-bar                                                                                                             |
@@ -66,7 +66,7 @@ fontsize: 14pt
 |                   |     09:55 | Kostantinos Voudouris: Studying artificial and natural Intelligence with the Animal-AI environment                                                         |
 |                   |     10:20 | Matthew Fricke: Swarm foraging; from pogonomyrmex to robots                                                                                                |
 |                   |     10:45 | Morning Coffee                                                                                                                                             |
-|                   |     11:15 | <a href="https://github.com/crossley/ARCANI/issues/1" target="_black"> HOW discussion: How can ACCELNET support collaboration to close knowledge gaps?</a> |
+|                   |     11:15 | <a href="https://github.com/crossley/ARCANI/issues/4" target="_black"> HOW discussion: How can ACCELNET support collaboration to close knowledge gaps?</a> |
 |                   |     12:30 | David Kaplan: What drives model organism selection                                                                                                         |
 |                   |     12:50 | Brown bag Lunch <br> Pranab Das interdisciplinary collaborations at scale.                                                                                 |
 |                   |     14:00 | MEETING CLOSE 2pm                                                                                                                                          |
